@@ -10,7 +10,7 @@ export default function LoadingRanked() {
           <div className="w-full h-2 bg-zinc-600 z-10 animate-colorSkeleton bg-linear-skeleton bg-skeleton-size"></div>
           <div className="w-full h-2 bg-zinc-600 z-10 animate-colorSkeleton bg-linear-skeleton bg-skeleton-size"></div>
         </div>
-        <div className="w-28 h-20 bg-zinc-400"></div>
+        <div className="w-28 h-20  bg-zinc-400"></div>
       </div>
     </div>
   );
